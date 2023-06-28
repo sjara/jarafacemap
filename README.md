@@ -17,7 +17,7 @@ First, enable the virtual environment, then run jarafacemap with the flag `-m`.
 
 1. Clone this repository in your `~/src/` folder:
  * `cd ~/src/`
- * `git clone git://github.com/sjara/jarafacemap.git`
+ * `git clone https://github.com/sjara/jarafacemap.git`
 2. Create a virtual environment:
  * `mkvirtualenv jarafacemap`
 3. If needed, enable that virtual environment:
